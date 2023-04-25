@@ -9,3 +9,5 @@ MikroTik RouterOS基于路由、PPPoE认证、Web认证、流量控制、Web-pro
 可以根据需要增加或删除相应的功能，是许多路由器所无法实现的。
 同时MikroTik RouterBOARD专门为RouterOS设计的路由硬件，能稳定的应用在各种网络环境中。
 
+### DNS分流
+- [DNS分流](DNS分流+surge.md)
